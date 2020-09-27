@@ -2,8 +2,11 @@
 Japan National Team Mod for FIFA 20
 
 
-Only tested with the original version of the game (not CPY or other cracked versions). The real name of Japan will appear in Spanish Latino, Castellano and English USA languages.
+Only tested with the original version of the game (not CPY or other cracked versions). The real name of Japan will appear in Spanish Latino, Castellano and English USA languages. 
 
+ATTENTION: There is no need to edit your game database if you are playing the game into English (US) or Spanish (ES). This mod has been already made with these two languages. It will appear Japan and JAPAN or Japón and JAPÓN in every menu or interface in the game. If you are playing into different languages, then you need to edit your own language database through frosty editor.
+
+(SKIP THIS STEPS to STEPS TO INSTALL IF YOU ARE PLAYING INTO ENGLISH US OR SPANISH ES).
 You will need to edit your own database language by DB master with frosty editor. There is a tutorial here: 
 
 
